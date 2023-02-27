@@ -11,6 +11,6 @@ Send me an email at alex.albert@vilkrig.com.
 ## 🌱 I’m currently learning
 I'm always looking to improve my skills and knowledge, so here are some of the things I'm currently learning:
 
-Natural Language Processing
-Deep Learning
-Time Series Analysis
+- Natural Language Processing
+- Deep Learning
+- Time Series Analysis
